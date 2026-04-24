@@ -1,0 +1,9 @@
+git : Le terme ®git¯ n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme 
+ex‚cutable. V‚rifiez l'orthographe du nom, ou si un chemin d'accŠs existe, v‚rifiez que le chemin d'accŠs est correct 
+et r‚essayez.
+Au caractŠre C:\flutter\bin\internal\update_engine_version.ps1:53 : 11
++ } elseif (git -C "$flutterRoot" ls-files bin/internal/engine.version) ...
++           ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
