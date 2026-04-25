@@ -108,7 +108,7 @@ DeadSwitch/
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/YOURUSERNAME/deadswitch.git
+git clone https://github.com/MrHamdiChedli/deadswitch.git
 ```
 
 2. Install dependencies
@@ -138,7 +138,7 @@ flutter run
 
 | PIN Lock | Home | Vault | Panic |
 |---|---|---|---|
-| coming soon | coming soon | coming soon | coming soon |
+| coming soon | coming soon | coming soon | (https://imgur.com/6eXEY6A) |
 
 ---
 
