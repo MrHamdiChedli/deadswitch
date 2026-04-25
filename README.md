@@ -138,7 +138,7 @@ flutter run
 
 | PIN Lock | Home | Vault | Panic |
 |---|---|---|---|
-| coming soon | coming soon | coming soon | (https://imgur.com/6eXEY6A) |
+| coming soon | coming soon | coming soon | coming soon |
 
 ---
 
